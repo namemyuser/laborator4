@@ -1,0 +1,24 @@
+[
+  {
+    "courseID": 1,
+    "name": "DSA",
+    "teacher": 1,
+    "maxEnrollment": 20,
+    "studentsEnrolled": [
+      1
+
+    ],
+    "credits": 3
+  },
+  {
+    "courseID": 2,
+    "name": "DSA",
+    "teacher": 1,
+    "maxEnrollment": 20,
+    "studentsEnrolled": [
+      1,
+      2
+    ],
+    "credits": 3
+  }
+]

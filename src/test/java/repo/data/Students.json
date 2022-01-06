@@ -1,0 +1,22 @@
+[
+  {
+    "studentId": 1,
+    "totalCredits": 20,
+    "enrolledCourses": [
+      1,
+      2
+    ],
+    "firstName": "Albisoru",
+    "lastName": "Florin"
+  },
+  {
+    "studentId": 2,
+    "totalCredits": 20,
+    "enrolledCourses": [
+      1,
+      2
+    ],
+    "firstName": "Albisoru",
+    "lastName": "Florin"
+  }
+]

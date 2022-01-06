@@ -1,0 +1,20 @@
+[
+  {
+    "courses": [
+      1,
+      2
+    ],
+    "teacherID": 1,
+    "firstName": "Albisoru",
+    "lastName": "Florin"
+  },
+  {
+    "courses": [
+      1,
+      2
+    ],
+    "teacherID": 2,
+    "firstName": "Albisoru",
+    "lastName": "Florin"
+  }
+]
